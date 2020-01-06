@@ -1,0 +1,32 @@
+body{
+  background-color: green;
+
+}
+h1 {
+  text-align: center;
+  color: white;
+}
+
+h2{
+  text-align: center;
+  color:white;
+}
+
+.bilde{
+  width:250px;
+  border-radius: 50%;
+  border-color: grey;
+  border-width: 4px;
+  border-style: solid;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.logo{
+color: white;
+  font-weight: bold;
+  font-style: italic;
+  font-size: 30px;
+  text-align: center;
+}
